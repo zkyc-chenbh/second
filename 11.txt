@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+feature 123
+789
+=======
+master
+>>>>>>> 79bf1096fcccfdc7c2429c191109dec0a85aa1cd
+bbbaaaas44444fdsdfisdfew file
+chg
+23232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323aisdfsdf
+5
+ooocmd
+<<<<<<< HEAD
+uuuuu
+=======
+sdfsdfwef
+>>>>>>> 8c16a75bc6c0713f3978f69fd7859cc4ab5a6a25
+master
